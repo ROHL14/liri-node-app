@@ -389,4 +389,195 @@
           "Song's Name": "Exo-Politics",
           "Link of the Song":"https://api.spotify.com/v1/tracks/20vZII9Yu52czI9Fk4p39r",
           "Name of Album":"Black Holes And Revelations"
-        }]},
+        }]},{concert-thisGreta Van Fleet":[{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Tinderbox Festival","Odense","","Denmark"],
+        "Date of event: "Thursday, June 27, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Lollapalooza Stockholm","Stockholm","","Sweden"],
+        "Date of event: "Saturday, June 29, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Rock Werchter","Werchter","","Belgium"],
+        "Date of event: "Sunday, June 30, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Open’er Festival","Gdynia","","Poland"],
+        "Date of event: "Thursday, July 4, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Exit Festival","Ns","","Serbia"],
+        "Date of event: "Saturday, July 6, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Metastadt Open Air","Vienna","","Austria"],
+        "Date of event: "Tuesday, July 9, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Bologna Sonic Park","Bologna","","Italy"],
+        "Date of event: "Wednesday, July 10, 2019 8:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["NOS Alive","Alges","","Portugal"],
+        "Date of event: "Friday, July 12, 2019 11:00 AM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Mad Cool Festival","Madrid","","Spain"],
+        "Date of event: "Saturday, July 13, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Eaton's Hill Hotel","Brisbane","","Australia"],
+        "Date of event: "Tuesday, September 3, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Forum Theatre","Melbourne","","Australia"],
+        "Date of event: "Friday, September 6, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Festival Hall Melbourne","West Melbourne","","Australia"],
+        "Date of event: "Saturday, September 7, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Logan Campbell Centre","Auckland","","New Zealand"],
+        "Date of event: "Tuesday, September 10, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Starlight Theatre","Kansas City","MO","United States"],
+        "Date of event: "Saturday, September 21, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Red Rocks Amphitheatre","Morrison","CO","United States"],
+        "Date of event: "Monday, September 23, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Red Rocks Amphitheatre","Morrison","CO","United States"],
+        "Date of event: "Tuesday, September 24, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["The Joint at The Hard Rock Hotel","Las Vegas","NV","United States"],
+        "Date of event: "Friday, September 27, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Cal Coast Credit Union Open Air Theatre","San Diego","CA","United States"],
+        "Date of event: "Sunday, September 29, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["FivePoint Amphitheatre","Irvine","CA","United States"],
+        "Date of event: "Monday, September 30, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Bill Graham Civic Auditorium","San Francisco","CA","United States"],
+        "Date of event: "Wednesday, October 2, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Hollywood Palladium","Los Angeles","CA","United States"],
+        "Date of event: "Saturday, October 5, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Hollywood Palladium","Los Angeles","CA","United States"],
+        "Date of event: "Sunday, October 6, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Smart Financial Centre at Sugar Land","Sugar Land","TX","United States"],
+        "Date of event: "Wednesday, October 9, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["UNO Lakefront Arena","New Orleans","LA","United States"],
+        "Date of event: "Friday, October 11, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Municipal Auditorium","Nashville","TN","United States"],
+        "Date of event: "Sunday, October 13, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["The Met Philadelphia","Philadelphia","PA","United States"],
+        "Date of event: "Tuesday, October 15, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["The Met Philadelphia","Philadelphia","PA","United States"],
+        "Date of event: "Wednesday, October 16, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Leeds 02 Academy","Leeds","","United Kingdom"],
+        "Date of event: "Sunday, November 3, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Olympia Theatre","Dublin","","Ireland"],
+        "Date of event: "Monday, November 4, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Glasgow 02 Academy","Glasgow","","United Kingdom"],
+        "Date of event: "Wednesday, November 6, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Newcastle 02 Academy","Newcastle-under-lyme","","United Kingdom"],
+        "Date of event: "Thursday, November 7, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Mountford Hall","Liverpool","","United Kingdom"],
+        "Date of event: "Saturday, November 9, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Rock City","Nottingham","","United Kingdom"],
+        "Date of event: "Sunday, November 10, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["AFAS Live","Amsterdam","","Netherlands"],
+        "Date of event: "Tuesday, November 12, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Zénith de Paris","Paris","","France"],
+        "Date of event: "Wednesday, November 13, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Lotto Arena","Antwerp","","Belgium"],
+        "Date of event: "Friday, November 15, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["KB Hallen","Copenhagen","","Denmark"],
+        "Date of event: "Monday, November 18, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Palladium Cologne","Cologne","","Germany"],
+        "Date of event: "Wednesday, November 20, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Zenith","Munich","","Germany"],
+        "Date of event: "Thursday, November 21, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Alcatraz","Milan","","Italy"],
+        "Date of event: "Sunday, November 24, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Greta Van Fleet",
+      "Venue name":"["Palau Sant Jordi","Barcelona","","Spain"],
+        "Date of event: "Tuesday, November 26, 2019 7:00 PM"}]},{"spotify-this-song Revelations":[{
+          "artists":"Muse",
+          "Song's Name": "Supermassive Black Hole",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/3lPr8ghNDBLc2uZovNyLs9",
+          "Name of Album":"Black Holes And Revelations"
+        },{
+          "artists":"Muse",
+          "Song's Name": "Starlight",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/3skn2lauGk7Dx6bVIt5DVj",
+          "Name of Album":"Black Holes And Revelations"
+        },{
+          "artists":"Muse",
+          "Song's Name": "Knights of Cydonia",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/7ouMYWpwJ422jRcDASZB7P",
+          "Name of Album":"Black Holes And Revelations"
+        },{
+          "artists":"Audioslave",
+          "Song's Name": "Revelations",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/22wnEMAQaNrbot1dwmeucH",
+          "Name of Album":"Revelations"
+        },{
+          "artists":"Audioslave",
+          "Song's Name": "Sound Of A Gun",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/3zFG5dyH5rJfkZ25fgR173",
+          "Name of Album":"Revelations"
+        },{
+          "artists":"Iron Maiden",
+          "Song's Name": "Revelations - 2015 Remaster",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/5m8qHysq3HMfF0r1pDAAqN",
+          "Name of Album":"Piece of Mind (2015 - Remaster)"
+        },{
+          "artists":"Muse",
+          "Song's Name": "Map of the Problematique",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/5YXr4AGfUQpLSxtFSsKUh6",
+          "Name of Album":"Black Holes And Revelations"
+        },{
+          "artists":"Tchami",
+          "Song's Name": "Zeal",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/0rR4E4UdzHg0E0ySbbHhUW",
+          "Name of Album":"Revelations EP"
+        },{
+          "artists":"Muse",
+          "Song's Name": "Assassin",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/6JnFVmPyJvjnfBag0hhIFa",
+          "Name of Album":"Black Holes And Revelations"
+        },{
+          "artists":"Tchami,Taiki Nulight",
+          "Song's Name": "Godspell (feat. Taiki Nulight)",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/7vK8DPCSqI9LHqBRDYfIDT",
+          "Name of Album":"Revelations EP"
+        },{
+          "artists":"Tchami",
+          "Song's Name": "Adieu, Pt. II",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/0Brf1s65f8eekORKK9gpe4",
+          "Name of Album":"Revelations EP"
+        },{
+          "artists":"Audioslave",
+          "Song's Name": "Wide Awake",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/0azJGZcBmcLKYpHBpFEdm6",
+          "Name of Album":"Revelations"
+        },{
+          "artists":"Audioslave",
+          "Song's Name": "Original Fire",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/0zY7SkbIByXGKak663jHuI",
+          "Name of Album":"Revelations"
+        },{
+          "artists":"Muse",
+          "Song's Name": "Glorious",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/6IfitwQQ1Gu9g9QnLWDHRY",
+          "Name of Album":"Black Holes And Revelations"
+        },{
+          "artists":"Audioslave",
+          "Song's Name": "Moth",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/7JbTSaDVr8JKEYQYoCKBSC",
+          "Name of Album":"Revelations"
+        },{
+          "artists":"Audioslave",
+          "Song's Name": "Shape of Things to Come",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/4tXKUNSNB7oIbxHKQsZYwc",
+          "Name of Album":"Revelations"
+        },{
+          "artists":"Don Kenobi,Mick Jenkins",
+          "Song's Name": "Revelations",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/3DjeXwY2fLjFr5y9RxnuvS",
+          "Name of Album":"Revelations"
+        },{
+          "artists":"Muse",
+          "Song's Name": "Take a Bow",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/4jrCMOG9OPe6iF4vWFxatb",
+          "Name of Album":"Black Holes And Revelations"
+        },{
+          "artists":"The Underachievers",
+          "Song's Name": "Revelations",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/03oIQFAzKf0bomTW4VX62H",
+          "Name of Album":"Indigoism"
+        },{
+          "artists":"Muse",
+          "Song's Name": "Exo-Politics",
+          "Link of the Song":"https://api.spotify.com/v1/tracks/20vZII9Yu52czI9Fk4p39r",
+          "Name of Album":"Black Holes And Revelations"
+        }]},{"movie-this Halloween":{
+                "Movie Title": "Halloween"
+                "Year Release": "1978",
+                "Imdb Rating": "7.8",
+                "Rotten Tomatoes":" 95%",
+                "Country": "USA",
+                "Languages": "English",
+                "Plot": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+                "Main Cast": "Donald Pleasence, Jamie Lee Curtis, Nancy Kyes, P.J. Soles"
+                },
